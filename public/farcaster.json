@@ -1,0 +1,17 @@
+{
+  "frame": {
+    "version": "next",
+    "name": "TokenScope",
+    "iconUrl": "https://tokenscope.xyz/icon.png",
+    "splashImageUrl": "https://tokenscope.xyz/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "homeUrl": "https://tokenscope.xyz/miniapp",
+    "webhookUrl": "https://tokenscope.xyz/api/farcaster/webhook"
+  },
+  "accountAssociation": {
+    "header": "Connect your Farcaster account to TokenScope for personalized insights and gasless trades.",
+    "payload": {
+      "domain": "tokenscope.xyz"
+    }
+  }
+}
