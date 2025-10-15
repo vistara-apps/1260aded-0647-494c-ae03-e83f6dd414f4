@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "TokenScope: Intelligent Token Insights & Swaps",
+    "subtitle": "Built with Zara",
+    "description": "TokenScope: Intelligent Token Insights & Swaps is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-6dd414f4-pimg.vercel.app",
+    "splashImageUrl": "https://app-6dd414f4-pimg.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://app-6dd414f4-pimg.vercel.app/image.png",
+    "tagline": "TokenScope: Intelligent Token Insights & Swaps",
+    "screenshotUrls": [
+      "https://app-6dd414f4-pimg.vercel.app/screenshot.png",
+      "https://app-6dd414f4-pimg.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://app-6dd414f4-pimg.vercel.app/api/webhook"
+  }
+}
